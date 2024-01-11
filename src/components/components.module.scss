@@ -1,0 +1,69 @@
+.divider {
+  width: 100%;
+  height: 10px;
+  margin-block: 2rem;
+  text-align: center;
+  position: relative;
+
+  &::after {
+    content: "";
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    display: inline-block;
+    position: absolute;
+    background-color: #e91e23;
+    box-shadow:
+      20px 0px #02b2e7,
+      -20px 0px #fabc16;
+  }
+}
+
+/** Loader **/
+.loader {
+  border: 5px solid #878787; /* Light grey */
+  border-top: 5px solid #fabc16; /* Blue */
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/** Quote **/
+.quote {
+  background-color: #395056;
+  margin: 1rem 0;
+  padding: 1.5rem;
+  border-radius: 6px;
+  position: relative;
+  box-shadow: rgba(55, 55, 55, 0.8) 0px 8px 24px;
+  &::before,
+  &::after {
+    content: '"';
+    position: absolute;
+    top: 0;
+    font-size: 5rem;
+    line-height: 1;
+    color: #ffffff84;
+  }
+  &::before {
+    content: '"';
+
+    left: 0;
+  }
+
+  &::after {
+    content: '"';
+
+    right: 0;
+  }
+}

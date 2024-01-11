@@ -1,0 +1,226 @@
+{
+  "friends": [
+    {
+      "id": 1,
+      "name": "Rachel Green",
+      "age": 25,
+      "img": "/src/assets/rachel.webp",
+      "description": "Rachel Karen Greene (see section Name) is one of the main characters on the popular sitcom Friends (1994–2004). She was played by Jennifer Aniston, who received Emmy Awards and a Golden Globe for her performance. As of Season 3, she gets to be near as snarky as Chandler Bing"
+    },
+    {
+      "id": 2,
+      "name": "Monica Geller",
+      "age": 26,
+      "img": "/src/assets/monica.webp",
+      "description": "Monica Geller is one of the main characters on the popular sitcom Friends (1994–2004), played by Courteney Cox. Monica was known as the Mother Hen of the group and her Greenwich Village apartment was one of the group's main gathering places throughout the series."
+    },
+    {
+      "id": 3,
+      "name": "Phoebe Buffay",
+      "age": 26,
+      "img": "/src/assets/phoebe.webp",
+      "description": "Phoebe Buffay-Hannigan (née Buffay) is one of the main characters on the popular sitcom Friends (1994–2004), portrayed by Lisa Kudrow. She is best known for her bohemian lifestyle, silly wit, and somewhat dubious musical skills."
+    },
+    {
+      "id": 4,
+      "name": "Joey Tribbiani",
+      "age": 26,
+      "img": "/src/assets/joey.webp",
+      "description": "Joey is portrayed as promiscuous and dim-witted but good-natured, as well as very loyal, caring, and protective of his friends. He is a food-loving womanizer who has had more luck with dates than any of the other group members. In contrast to his persona as the ladies' man, he has also a marked childish side. His best friend is Chandler Bing."
+    },
+    {
+      "id": 5,
+      "name": "Ross Geller",
+      "age": 26,
+      "img": "/src/assets/ross.webp",
+      "description": "Ross Geller, Ph.D. is one of the main characters on the popular sitcom Friends (1994–2004), portrayed by David Schwimmer. He is best known for his nerdy personality and very awkward sense of humour alongside sarcasm near as much as Chandler Bing."
+    },
+    {
+      "id": 6,
+      "name": "Chandler Bing",
+      "age": 27,
+      "img": "/src/assets/chandler.webp",
+      "description": "Chandler Muriel Bing is one of the main characters on the popular sitcom Friends (1994–2004), portrayed by the late Matthew Perry. Chandler has a very good sense of humor, and is notoriously sarcastic, an attribute he calls a defense mechanism he developed due to his parents' divorcing when he was a child. His best friends are Joey Tribbiani and Ross Geller. Chandler's main catchphrase is starting sentences with Could that BE any more..."
+    }
+  ],
+  "quotes": [
+    {
+      "id": 1,
+      "text": "How you doin'?",
+      "by": "Joey Tribbiani"
+    },
+    {
+      "id": 2,
+      "text": "You can’t just give up. Is that what a dinosaur would do?",
+      "by": "Joey Tribbiani"
+    },
+    {
+      "id": 3,
+      "text": "Joey doesn’t share food!",
+      "by": "Joey Tribbiani"
+    },
+    {
+      "id": 4,
+      "text": "Could I BE wearing any more clothes?!",
+      "by": "Joey Tribbiani"
+    },
+    {
+      "id": 5,
+      "text": "Here come the meat sweats.",
+      "by": "Joey Tribbiani"
+    },
+    {
+      "id": 6,
+      "text": "I’m not great at the advice. Can I interest you in a sarcastic comment?",
+      "by": "Chandler Bing"
+    },
+    {
+      "id": 7,
+      "text": "I’m sorry, it was a one-time thing. I was very drunk, and it was someone else’s subconscious.",
+      "by": "Chandler Bing"
+    },
+    {
+      "id": 8,
+      "text": "I'm hopeless and awkward and desperate for love!",
+      "by": "Chandler Bing"
+    },
+    {
+      "id": 9,
+      "text": "I’m Chandler. I make jokes when I’m uncomfortable.",
+      "by": "Chandler Bing"
+    },
+    {
+      "id": 10,
+      "text": "I have no idea what's going on, but I am excited.",
+      "by": "Chandler Bing"
+    },
+    {
+      "id": 11,
+      "text": "I'm gonna go out on a limb and say no divorces in '99!",
+      "by": "Ross Geller"
+    },
+    {
+      "id": 12,
+      "text": "I grew up with Monica. If you didn't eat fast, you didn't eat.",
+      "by": "Ross Geller"
+    },
+    {
+      "id": 13,
+      "text": "No more falafel for you!",
+      "by": "Ross Geller"
+    },
+    {
+      "id": 14,
+      "text": "I'm the holiday armadillo!",
+      "by": "Ross Geller"
+    },
+    {
+      "id": 15,
+      "text": "See? He’s her lobster",
+      "by": "Phoebe Buffay"
+    },
+    {
+      "id": 16,
+      "text": "Come on, Ross, you’re a paleontologist. Dig a little deeper.",
+      "by": "Phoebe Buffay"
+    },
+    {
+      "id": 17,
+      "text": "Oh you like that? You should hear my phone number.",
+      "by": "Phoebe Buffay"
+    },
+    {
+      "id": 18,
+      "text": "Well, maybe I don’t need your money. Wait, wait, I said maybe!",
+      "by": "Rachel Green"
+    },
+    {
+      "id": 19,
+      "text": "Isn't that just kick-you-in-the-crotch, spit-on-your-neck fantastic?",
+      "by": "Rachel Green"
+    },
+    {
+      "id": 20,
+      "text": "He's so pretty, I want to cry.",
+      "by": "Rachel Green"
+    }
+  ],
+  "brooklyn99": [
+    {
+      "id": 1,
+      "name": "Jake Peralta"
+    },
+    {
+      "id": 2,
+      "name": "Raymond Holt"
+    },
+    {
+      "id": 3,
+      "name": "Amy Santiago"
+    },
+    {
+      "id": 4,
+      "name": "Terry Jeffords"
+    },
+    {
+      "id": 5,
+      "name": "Charles Boyle"
+    },
+    {
+      "id": 6,
+      "name": "Rosa Diaz"
+    }
+  ],
+  "bbt": [
+    {
+      "id": 1,
+      "name": "Sheldon Cooper"
+    },
+    {
+      "id": 2,
+      "name": "Leonard Hofstadter"
+    },
+    {
+      "id": 3,
+      "name": "Penny"
+    },
+    {
+      "id": 4,
+      "name": "Howard Wolowitz"
+    },
+    {
+      "id": 5,
+      "name": "Raj Koothrappali"
+    }
+  ],
+  "users": [
+    {
+      "id": "annie",
+      "infoId": "annieInfo"
+    }
+  ],
+  "info": [
+    {
+      "id": "annieInfo",
+      "favShow": [
+        "Friends",
+        "Big Bang Theory",
+        "Brooklyn nine-nine"
+      ]
+    }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "content": "Learn React Query"
+    },
+    {
+      "content": "hello",
+      "id": 2
+    },
+    {
+      "content": "",
+      "id": 3
+    }
+  ]
+}
